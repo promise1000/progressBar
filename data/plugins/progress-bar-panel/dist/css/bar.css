@@ -1,0 +1,29 @@
+.progress{
+  position:relative;
+  margin-bottom:25px;
+}
+.bar-tag{
+  position: absolute;
+  top: 0;
+  right: auto;
+  bottom: 0;
+  margin: auto;
+  height: 110%;
+  width: 0.994695%;
+  border-radius: 3px;
+  box-shadow:0 0 1px 3px white;
+  background: #e4e4e4;
+}
+.progress-bar{
+  position: relative;
+}
+.tag-val{
+  position: absolute;
+  right: 0;
+  bottom: -23px;
+}
+.tag-min{
+  position: absolute;
+  left: -3px;
+  bottom: -23px;
+}
